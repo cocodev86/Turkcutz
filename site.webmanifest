@@ -1,0 +1,10 @@
+{
+  "name": "Turk Davinci",
+  "short_name": "Turk Davinci",
+  "start_url": "/Turkcutz/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Atlanta barber — sharp cuts, clean detail, premium grooming.",
+  "icons": []
+}
