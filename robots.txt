@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cocodev86.github.io/Turkcutz/sitemap.xml
